@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGOOGLEMAPS", "APIGOOGLEMAPS\APIGOOGLEMAPS.csproj", "{F3531E2A-C677-416E-B3E7-2622B1A8C904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3531E2A-C677-416E-B3E7-2622B1A8C904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3531E2A-C677-416E-B3E7-2622B1A8C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3531E2A-C677-416E-B3E7-2622B1A8C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3531E2A-C677-416E-B3E7-2622B1A8C904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D74215E1-69F3-489A-B429-8D7DC993DAF6}
+	EndGlobalSection
+EndGlobal
